@@ -34,7 +34,7 @@ Scanning, QR codes and PDFs are free and unlimited. Scanlune Premium is one paym
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 This repository holds the documentation only; the source code is not published here.
 
@@ -69,6 +69,6 @@ Tarama, QR kod ve PDF ücretsiz ve sınırsızdır. Scanlune Premium tek ödemed
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Bu depoda yalnızca belgeler bulunur; kaynak kod burada yayımlanmaz.

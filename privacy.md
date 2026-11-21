@@ -34,7 +34,7 @@ Scanlune doesn't ask for camera or storage permission. The document and code sca
 
 ## Contact
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 ---
 
@@ -72,4 +72,4 @@ Scanlune kamera veya depolama izni istemez. Belge ve kod tarayıcıları Google 
 
 ### İletişim
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
